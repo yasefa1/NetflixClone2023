@@ -43,7 +43,7 @@ function Footer() {
           <li>Help Center</li>
           
           <li>Jobs</li>
-          <l>Legal Notices</l>
+          <li>Legal Notices</li>
           <li>Do Not Sell or Share My personal </li>
         </ul>
 
