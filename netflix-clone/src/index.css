@@ -8,6 +8,11 @@
   --primary-color: #ffffff;
   --secondary-color: #e50914;
 }
+body {
+  font-family: var(--font-base);
+  background-color: var(--bg-color);
+  color: var(--primary-color);
+}
 * {
   margin: 0;
   padding: 0;
